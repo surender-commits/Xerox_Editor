@@ -1,3 +1,4 @@
+<img width="1180" height="791" alt="1" src="https://github.com/user-attachments/assets/566011c1-7100-4ddf-88f1-ca3a4e954d2a" />
 # Xerox Editor
 
 A lightweight desktop image editor designed for document correction, scanning, and perspective adjustment.
@@ -29,11 +30,7 @@ Perfect for scanned documents, receipts, notes, forms, certificates, and mobile-
 
 ## Screenshots
 
-![Main Editor](screenshots/1.jpg)
-
-![Main Editor](screenshots/1.jpg)
-
-![Main Editor](screenshots/1.jpg)
+<img src="https://github.com/surender-commits/Xerox_Editor/blob/main/Xerox_Editor/screenshots/1.jpg"  width="32%" height="auto" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/surender-commits/Xerox_Editor/blob/main/Xerox_Editor/screenshots/2.jpg"  width="32%" height="auto">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/surender-commits/Xerox_Editor/blob/main/Xerox_Editor/screenshots/3.jpg"  width="32%" height="auto">
 
 ---
 
